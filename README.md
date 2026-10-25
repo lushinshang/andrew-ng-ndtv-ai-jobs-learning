@@ -2,7 +2,13 @@
 
 NDTV Profit 於 NDTV 世界高峰會（新德里）訪談 Andrew Ng（2026-10-22 上架，約 20:44）的深度導讀網頁。把 Ng 點名的 17%、自稱創造的 agentic 一詞、對 OpenAI 入侵 Hugging Face 的說法，對上一手來源，逐項標示已確認、二手或 Ng 自述。
 
-> 本導讀的分析、撰稿、翻譯、查證與插圖皆由 AI 模型完成，不是人類分析，也沒有經過人工逐句校稿，內容依 YouTube 機器字幕整理。僅本機完成，尚未發布。
+> 本導讀的分析、撰稿、翻譯、查證與插圖皆由 AI 模型完成，不是人類分析，也沒有經過人工逐句校稿，內容依 YouTube 機器字幕整理。已於 2026-10-25 發布。
+
+## 發布狀態
+
+- 網址：https://lushinshang.github.io/andrew-ng-ndtv-ai-jobs-learning/（導讀）、[播放器](https://lushinshang.github.io/andrew-ng-ndtv-ai-jobs-learning/player.html)、[譯文](https://lushinshang.github.io/andrew-ng-ndtv-ai-jobs-learning/translation-zh.html)
+- repo：https://github.com/lushinshang/andrew-ng-ndtv-ai-jobs-learning（commit 6274bef，2026-10-25）
+- 公開內容：index.html、player.html、translation-zh.html、導讀 md、README、share_post、images（WebP）；`research/`、`qa/` 只留本機
 
 ## 檔案
 
