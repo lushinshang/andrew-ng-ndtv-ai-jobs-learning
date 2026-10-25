@@ -36,4 +36,4 @@ NDTV Profit 於 NDTV 世界高峰會（新德里）訪談 Andrew Ng（2026-10-22
 
 ## 製作分工
 
-主控與撰稿：Claude Sonnet 5.5；字幕批次翻譯：agy（Gemini 3.8 Flash）；譯文審修、事實審稿、編輯審稿、總編輯潤稿：Claude Opus；事實查證：agy、Codex、Claude 各自獨立；插圖：Codex imagegen。依機器字幕整理，未對照原音。
+主控與撰稿：Claude Sonnet 5.5；字幕批次翻譯：agy（Gemini 3.8 Flash）；譯文審修、事實審稿、編輯審稿、總編輯潤稿：Claude Opus（發布後另由 Sonnet 5.5 依總編輯準則小幅修訂）；事實查證：agy、Codex、Claude 各自獨立；插圖：Codex imagegen。依機器字幕整理，未對照原音。
